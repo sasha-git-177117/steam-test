@@ -1,0 +1,10 @@
+{
+  "heroFilter": "Lifestealer",
+  "searchItemFilter" : "golden",
+  "rarityFilter" : "Immortal",
+  "gameFilter" : "Dota 2",
+  "searchTextInItemName" : "Golden",
+  "numberGame" : 1,
+  "numberItem" : 1,
+  "countSelectGame" : 5
+}
